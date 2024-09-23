@@ -1,0 +1,1 @@
+This repository features a portion of the data analysis conducted on datasets provided by MecCarsharing, a car-sharing company based in Barcelona. The analysis focuses on key insights and trends from the company's operational data, helping to optimize vehicle usage and improve service efficiency.
